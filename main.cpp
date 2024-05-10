@@ -1,8 +1,7 @@
-#include<iostream>
-using namespace std;
+#include"tetris.h"
+#include"Block.h"
 
 int main()
 {
-    cout<<"Hello World! a"<<endl;
-    return 0;
+    
 }
